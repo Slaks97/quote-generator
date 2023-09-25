@@ -15,7 +15,7 @@ const quotes = [{
     person: `Hank Aaron`
 }, {
     quote: `"Success is not final, failure is not fatal: It is the courage to continue that counts."`,
-    pesron: `Winston Churchill`
+    person: `Winston Churchill`
 }, {
     quote: `"If you can dream it, you can do it."`,
     person: `Walt Disney`
